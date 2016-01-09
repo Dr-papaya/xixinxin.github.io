@@ -1,4 +1,3 @@
-
 SRC = $(wildcard lib/*/*.js)
 HTML = $(wildcard lib/*/*.html)
 TEMPLATES = $(HTML:.html=.js)

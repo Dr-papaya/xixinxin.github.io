@@ -1,32 +1,25 @@
 ---
-category: Investment
+category: Investment Diary
 path: '/Investment'
-title: 'Investment Diary'
+title: '2016-1-8 投资日记'
 type: 'DIARY'
 
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
+### 本日收获
 
-### Request
+* 美元走强，非农数据好转，经济复苏，资金会从国内流出，说明股市还没有跌透，在等几个月等到二季度看会不会突破以前救市的底部，2900左右；
 
-* The headers must include a **valid authentication token**.
+* 注册制暂缓，对借壳是一个利好；在反弹的时候适当做T， 维持500以上1500以下的持仓即可
 
-### Response
+* 其他的股票在反弹的时候先清掉，休息观望一阵子再说
 
-Sends back a collection of things.
+* 还是把握热点，不一定要非弄一个股票，比如怡亚通，可以不用再等了，庄家估计还会等好久才会问津她，再说建仓也得好久，等反弹清掉；
 
-```Status: 200 OK```
+
+### 明日策略
+
 ```{
-    {
-        id: thing_1,
-        name: 'My first thing'
-    },
-    {
-        id: thing_2,
-        name: 'My second thing'
-    }
+    * 冲高反弹减仓
 }```
-
-For errors responses, see the [response status codes documentation](#response-status-codes).

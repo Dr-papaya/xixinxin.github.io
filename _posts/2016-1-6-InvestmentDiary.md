@@ -1,5 +1,5 @@
 ---
-title: '2016-1-6 investment'
+title: '2016-1-6 投资日记'
 
 layout: nil
 ---

@@ -1,5 +1,8 @@
 ---
+category: Investment Diary
+path: '/Investment'
 title: '2016-1-6 投资日记'
+type: 'DIARY'
 
 layout: nil
 ---

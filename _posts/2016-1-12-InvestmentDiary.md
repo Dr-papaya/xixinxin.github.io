@@ -1,7 +1,7 @@
 ---
 category: Investment Diary
 path: '/Investment'
-title: '2016-1-8 投资日记'
+title: '2016-1-12 逃过大劫的逻辑'
 type: 'DIARY'
 
 layout: nil
@@ -24,4 +24,4 @@ layout: nil
     * 冲高反弹减仓，再在低位接回来，绿盘做T
 }```
 
-For errors responses, see the [response status codes documentation](#response-status-codes).
+For errors responses, see the [response status codes documentation](http://xueqiu.com/3833809326/63499926).

@@ -24,4 +24,4 @@ layout: nil
     * 冲高反弹减仓，再在低位接回来，绿盘做T
 }```
 
-For errors responses, see the [response status codes documentation](http://xueqiu.com/3833809326/63499926).
+Reference: [我是靠什么逻辑在每次大跌之前都全身而退的](http://xueqiu.com/3833809326/63499926).

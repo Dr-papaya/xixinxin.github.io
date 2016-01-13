@@ -1,0 +1,27 @@
+---
+category: Investment Diary
+path: '/Investment'
+title: '2016-1-8 投资日记'
+type: 'DIARY'
+
+layout: nil
+---
+
+### 本日收获
+
+* 在套牢的情况下，不一定什么都不动等到正收益，可以负收益做T，先相对高位卖出在低位买进；
+
+* 注册制暂缓，对借壳是一个利好；在反弹的时候适当做T， 维持500以上1500以下的持仓即可
+
+* 其他的股票在反弹的时候先清掉，休息观望一阵子再说
+
+* 还是把握热点，不一定要非弄一个股票，比如怡亚通，可以不用再等了，庄家估计还会等好久才会问津她，再说建仓也得好久，等反弹清掉；
+
+
+### 明日策略
+
+```{
+    * 冲高反弹减仓，再在低位接回来，绿盘做T
+}```
+
+For errors responses, see the [response status codes documentation](#response-status-codes).

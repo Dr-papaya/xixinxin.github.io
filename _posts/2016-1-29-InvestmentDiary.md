@@ -16,7 +16,6 @@ layout: nil
 * 技术面上：有一个长长的下影线；
 
 
-
 ### 明日策略
 
 ```{
@@ -24,3 +23,7 @@ layout: nil
     
     * 要学会休息！
 }```
+
+
+### 本周收益
+ [收益报表](https://docs.google.com/spreadsheets/d/1Zne9qXP4arOkBgmH9ZzsN0fKO0SyvyuPbR15fun_3Qc/edit#gid=0).

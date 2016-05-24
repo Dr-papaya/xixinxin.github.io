@@ -1,7 +1,7 @@
 ﻿---
 category: Investment Diary
 path: '/Investment'
-title: '2016-5-24 upload from local'
+title: '2016-5-24 upload from localside'
 type: 'DIARY'
 
 layout: nil
@@ -11,13 +11,6 @@ layout: nil
 
 Upload from the local service
 
-
-### 明日策略
-
-```{
-    
-
-}```
 
 
 ### 本周收益

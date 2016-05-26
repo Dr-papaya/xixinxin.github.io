@@ -106,7 +106,7 @@ a:hover {
  */
 
 h1 {
-    font-size: 10em;
+    font-size: 2em;
     margin: 0.67em 0;
 }
 
@@ -277,7 +277,7 @@ input,
 select,
 textarea {
     font-family: inherit; /* 1 */
-    font-size: 100%; /* 2 */
+    font-size: 50%; /* 2 */
     margin: 0; /* 3 */
 }
 
@@ -411,7 +411,7 @@ body,
 input,
 textarea {
   color: #191919;
-  font: 14px/140% 'Open Sans', Arial, sans-serif;
+  font: 24px/140% 'Open Sans', Arial, sans-serif;
 }
 
 a {

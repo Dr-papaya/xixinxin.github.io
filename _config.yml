@@ -7,13 +7,13 @@
 
 # Site settings
 title: YK crew
-name: DONGChuan
+name: YKcrew
 email: dongchuan55@gmail.com
-location: Nice, France
-company: Courtesy of DONGChuan (dongchuan55@gmail.com)
-company_url: http://www.gfi.fr/en/
-github_url: https://github.com/DONGChuan
-description: This is personnel website of DONG Chuan
+location: Cleveland, U.S.
+company: Case Western Reserve University
+#company_url: http://www.gfi.fr/en/
+github_url: https://github.com/xixinxin
+description: This is personnel website of YKcrew, Courtesy of original author DONGChuan (dongchuan55@gmail.com)
 favicon: favicon.png # Image must be in assets/images
 
 url: http://dongchuan.github.io # the base hostname & protocol for your site

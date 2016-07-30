@@ -8,10 +8,10 @@
 # Site settings
 title: YK crew
 name: YKcrew
-email: dongchuan55@gmail.com
+email: sweetyangkun@gmail.com
 location: Cleveland, U.S.
 company: Case Western Reserve University
-#company_url: http://www.gfi.fr/en/
+#company_url: http://ykcrew.com
 github_url: https://github.com/xixinxin
 description: This is personnel website of YKcrew, Courtesy of original author DONGChuan (dongchuan55@gmail.com)
 favicon: favicon.png # Image must be in assets/images
@@ -57,7 +57,7 @@ navs:
 
   -
     href: /open-source
-    label: Open-Source
+    label: Research
 
   -
     href: /blog

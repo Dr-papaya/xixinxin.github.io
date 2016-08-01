@@ -60,12 +60,12 @@ navs:
     label: Research
 
   -
-    href: /blog
-    label: Blog
-
-  -
     href: /bookmark
     label: Investment
+
+  -
+    href: /blog
+    label: Blog
 
   -
     href: /about

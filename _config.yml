@@ -43,7 +43,8 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: httpdongchuangithubio.disqus.com
+# disque: httpdongchuangithubio.disqus.com
+disque: comments-ykcrew.disqus.com
 
 # Pagination
 paginate: 10

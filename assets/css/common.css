@@ -7,9 +7,9 @@
 .site-header{
     padding-top:20px;
     padding-bottom:20px;
-    width: 50%;
+    width: 100%;
     position: fixed;
-    margin: 40px 0 30px 0;
+    margin: 30px 0 10px 0;
     top: 0;
     left: 0 !important;
     right: 0;

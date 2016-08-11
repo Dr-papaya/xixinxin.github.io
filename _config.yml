@@ -14,7 +14,7 @@ company: Case Western Reserve University
 #company_url: http://ykcrew.com
 github_url: https://github.com/xixinxin
 description: This is personnel website of YKcrew, Courtesy of original author DONGChuan (dongchuan55@gmail.com)
-favicon: favicon.png # Image must be in assets/images
+favicon: ykicon.png # Image must be in assets/images
 
 url: http://xixinxin.github.io # the base hostname & protocol for your site
 

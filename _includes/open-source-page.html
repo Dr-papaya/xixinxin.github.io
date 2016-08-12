@@ -1,8 +1,4 @@
 <!-- Refer as the ''resource'' page -->
-
-
-{% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
-<div id="container-open-source">
 <section class="content container">
 
     <div class="row">
@@ -41,18 +37,3 @@
     </div>
 
 </section>
-
-
-</div>
-<script>
-    $(document).ready(function(){
-
-        // Enable bootstrap tooltip
-        $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-
-        $('.geopattern').each(function(){
-            $(this).geopattern($(this).data('pattern-id'));
-        });
-
-    });
-</script>

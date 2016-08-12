@@ -1,6 +1,3 @@
-# resfers to MRI research
-
-
 ---
 layout: post
 title: MRI research

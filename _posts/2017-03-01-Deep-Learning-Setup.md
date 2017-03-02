@@ -16,7 +16,7 @@ tags: [MRI, Deep Learning]
 
 > Please inform me if any expert know more about it.
 
-![original.jpg](http://xixinxin.github.io/assets/images/original.jpg)
+
 
 ## Demo
 

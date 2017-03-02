@@ -2,7 +2,7 @@
 layout: post
 title: DeepLab with CAFFE
 category: MRI
-tags: [MRI]
+tags: [MRI, Deep Learning]
 ---
 
 `Deeplab` is based on `CAFFE`.
